@@ -1,4 +1,4 @@
-# Multicomplex-Integrative-Structural-Modeling-of-a-Human-Histone-Deacetylase-Interactome
+# Multicomplex Integrative Structural Modeling of a Human Histone Deacetylase Interactome
 
 This repository provides information about scripts and different dataset that were used to determine the 3D structure of dimers, trimer, and sixmer complexes.
 
